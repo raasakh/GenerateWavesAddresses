@@ -1,0 +1,25 @@
+{
+  "name": "waveswalletgenerator",
+  "version": "0.1.0",
+  "description": "Generate WAVES addresses (wallet) as much as you want",
+  "main": "index.js",
+  "dependencies": {
+    "@waves/waves-api": "^1.5.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanzHaxors/WavesWalletGenerator.git"
+  },
+  "author": "HanzHaxors",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HanzHaxors/WavesWalletGenerator/issues"
+  },
+  "homepage": "https://github.com/HanzHaxors/WavesWalletGenerator#readme"
+}
