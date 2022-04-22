@@ -1,11 +1,11 @@
-# WavesWalletGenerator
-Generate WAVES Addresses (Wallet) at your own will
+# GenerateWavesAddresses
+Waves Wallet Generator. Генератор Waves адресов и SEED фраз.
 
-Can generate addresses until your PC pass out.
+Создание бесконечного колличества адресов и парольных фраз пока ваш компьютер не выключится.
 
 # Installation and Execution Procedure
-1. `git clone https://github.com/HanzHaxors/WavesWalletGenerator`
-2. `cd WavesWalletGeenrator`
+1. `git clone https://github.com/raasakh/GenerateWavesAddresses`
+2. `cd GenerateWavesAddresses`
 3. `npm i`
 4. `npm start`
 
