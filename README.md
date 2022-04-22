@@ -10,4 +10,5 @@ Waves Wallet Generator. Генератор Waves адресов и SEED фраз
 4. `npm start`
 
 OPTIONAL:
+
 5. `node panel.js` (ONLY if you save the addresses in `addresses.json` file)
