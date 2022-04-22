@@ -12,3 +12,4 @@ Waves Wallet Generator. Генератор Waves адресов и SEED фраз
 OPTIONAL:
 
 5. `node panel.js` (ONLY if you save the addresses in `addresses.json` file)
+RUS. `node panel.js` (Все созданные адреса и фразы хранятся в  `addresses.json` файле)
